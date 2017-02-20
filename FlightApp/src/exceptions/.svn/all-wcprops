@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cscb07f14/group_0339/!svn/ver/46/PIII/FlightApp/src/exceptions
+END
+UserAlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cscb07f14/group_0339/!svn/ver/46/PIII/FlightApp/src/exceptions/UserAlreadyExistsException.java
+END
+InvalidDepartureOrArrivalDateTimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cscb07f14/group_0339/!svn/ver/46/PIII/FlightApp/src/exceptions/InvalidDepartureOrArrivalDateTimeException.java
+END
+NotLogedInException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cscb07f14/group_0339/!svn/ver/46/PIII/FlightApp/src/exceptions/NotLogedInException.java
+END
+NoSuchNodeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cscb07f14/group_0339/!svn/ver/46/PIII/FlightApp/src/exceptions/NoSuchNodeException.java
+END
+NoSuchUserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cscb07f14/group_0339/!svn/ver/46/PIII/FlightApp/src/exceptions/NoSuchUserException.java
+END
+FlightTooLongException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cscb07f14/group_0339/!svn/ver/46/PIII/FlightApp/src/exceptions/FlightTooLongException.java
+END
+WrongPasswordException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cscb07f14/group_0339/!svn/ver/46/PIII/FlightApp/src/exceptions/WrongPasswordException.java
+END
